@@ -39,4 +39,7 @@ if os.path.exists(folder_path):
 
                 print(f"{filename}: {total_words} words")
 else:
-    print("Folder does not exist.")
+    print("Folder doesn't exist.")
+
+
+
